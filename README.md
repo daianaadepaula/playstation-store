@@ -1,7 +1,7 @@
 # Playstation Store
-
-<img src="./img/playstationstoreweb1.png">
-![Project Image](https://github.com/daianaadepaula/img/playstationstoreweb1.png)
+<div align="center" >
+  <img src="./img/playstationstoreweb1.png" alt="Image Project" height="300px" width="600px">
+ </div>
 
 ## About the project
 
@@ -12,15 +12,18 @@ Playstation Store is a web and mobile front-end application built during an onli
 The application consists of a front-end website template, based on the playstation store.
 
 ### Layout mobile
-![Mobile 1](https://github.com/daianaadepaula/img/playstationstoremobile1.png) 
-![Mobile 2](https://github.com/daianaadepaula/img/playstationstoremobile2.png) 
-![Mobile 3](https://github.com/daianaadepaula/img/playstationstoremobile3.png)
 
+ <div align="center" >
+<img src="./img/playstationstoremobile1.png" alt="Image Mobile 1" width="248em"> <img src="./img/playstationstoremobile2.png" alt="Image Mobile 1" width="248em">
+<img src="./img/playstationstoremobile3.png" alt="Image Mobile 1" width="248em">
+ </div>
+ 
 ### Layout web
-![Web 1](https://github.com/daianaadepaula/img/playstationstoreweb1.png)
 
-![Web 2](https://github.com/daianaadepaula/img/playstationstoreweb2.png)
-
+<div align="center" >
+  <img src="./img/playstationstoreweb1.png" alt="Image Project" height="300px" width="600px">
+  <img src="./img/playstationstoreweb2.png" alt="Image Project" height="300px" width="600px">
+ </div>
 
 ## Technologies used
 
